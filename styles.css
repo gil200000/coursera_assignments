@@ -5,9 +5,25 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
+#p1 {
+  background-color: #C279EC;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  border: 1px solid black;
+  width: 25%;
+  text-align: center;
+  font-size: 125%;
+  padding: 0px;
+  }
+
+  h2 {
+  margin-bottom: 15px;
+  text-align: center;
+}
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #ff9933;
   border-radius: 0;
   border: 0;
 }
