@@ -6,7 +6,8 @@ body {
 }
 
 #p1 {
-  background-color: #66ffff;
+  background-color: #ff9933;
+  color: #000000;
   position: relative;
   border: 2px solid black;
   text-align: left;
