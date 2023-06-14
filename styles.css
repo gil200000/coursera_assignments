@@ -8,17 +8,16 @@ body {
 #p1 {
   background-color: #66ffff;
   position: relative;
-  border: 1px solid black;
-  width: 90%;
-  text-align: center;
+  border: 2px solid black;
+  text-align: left;
   font-size: 125%;
-  padding: 0px;
+  padding: 20px;
   }
 
-h1 {
-  margin-bottom: 15px;
+#p2 {
   text-align: center;
-}
+  }
+
   h2 {
   margin-bottom: 15px;
   text-align: center;
