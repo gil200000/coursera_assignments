@@ -9,12 +9,16 @@ body {
   background-color: #66ffff;
   position: relative;
   border: 1px solid black;
-  width: 25%;
+  width: 90%;
   text-align: center;
   font-size: 125%;
   padding: 0px;
   }
 
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
   h2 {
   margin-bottom: 15px;
   text-align: center;
