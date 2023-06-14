@@ -7,7 +7,7 @@ body {
 
 #p1 {
   background-color: #66ffff;
-  position: absolute;
+  position: relative;
   border: 1px solid black;
   width: 25%;
   text-align: center;
